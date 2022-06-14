@@ -6,7 +6,7 @@ Moi c'est zemfack mais vous pouvez simplement m'appeler dan, j'aide les PME et l
  **sur-mésure**
  
 ## 🌐Compétences maîtrisés
-En tant que développeur frontend, je suis spécialisé sur le framework react. Je presentement je suis entrain de monter en compétence en backend pour combler toutes les étapes de développement d'un projet.
+En tant que développeur frontend, je suis spécialisé sur le framework react. Présentement je suis entrain de me monter en compétence côté backend pour combler toutes les étapes de développement d'un projet.
 
 #### Stack principale(Frontend)
 - React.js - Redux - Tailwind - Firebase
