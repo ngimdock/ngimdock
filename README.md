@@ -1,7 +1,5 @@
-### NGIMDOCK ZEMFACK
-# Développeur web frontend freelance 🐻
-
-![photo ngimdock zemfack](https://i.ibb.co/SsprMBP/DSC04837.jpg)
+#### NGIMDOCK ZEMFACK🐻
+# Développeur web frontend freelance 
 
 ## 🌐Présentation
 Moi c'est zemfack mais vous pouvez simplement m'appeler dan, j'aide les PME et les particuliers à développer leurs sites et applications web
