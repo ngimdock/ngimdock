@@ -9,15 +9,15 @@ Moi c'est zemfack mais vous pouvez simplement m'appeler dan, j'aide les PME et l
 En tant que développeur frontend, je suis spécialisé sur le framework react. Présentement je suis entrain de me monter en compétence côté backend pour combler toutes les étapes de développement d'un projet.
 
 #### Stack principale(Frontend)
-- React.js - Redux - Tailwind - Firebase
+React.js - Redux - Tailwind - Firebase
 
 #### Stact secondaire(Backend)
-- Node.js - Express - MySql - Mongodb
+Node.js - Express - MySql - Mongodb
 
 ## Mes réseaux sociaux
-- [Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/)
-- [Tweeter](https://github.com/ngimdock)
+[Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/)
+[Tweeter](https://github.com/ngimdock)
 
 ## Contact
-- Mail: ngimdock.zemfack@facsciences-uy1.cm
-- Tel & whatsapp: +237 6 55 95 14 94
+Mail: ngimdock.zemfack@facsciences-uy1.cm
+Tel & whatsapp: +237 6 55 95 14 94
