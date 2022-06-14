@@ -1,4 +1,4 @@
-#### NGIMDOCK ZEMFACK🐻
+#### Ngimdock Zemfack 🐻
 # Développeur web frontend freelance 
 
 ## Présentation
