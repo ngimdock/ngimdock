@@ -18,5 +18,5 @@ En tant que développeur frontend, je suis spécialisé sur le framework react. 
 [Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/) - [Tweeter](https://github.com/ngimdock)
 
 ## Contact
-`Mail`: ngimdock.zemfack@facsciences-uy1.cm
-`Tel` & `whatsapp`: +237 6 55 95 14 94
+- `Mail`: ngimdock.zemfack@facsciences-uy1.cm
+- `Tel` & `whatsapp`: +237 6 55 95 14 94
