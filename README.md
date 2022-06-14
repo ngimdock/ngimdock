@@ -15,9 +15,8 @@ React.js - Redux - Tailwind - Firebase
 Node.js - Express - MySql - Mongodb
 
 ## Mes réseaux sociaux
-[Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/)
-[Tweeter](https://github.com/ngimdock)
+[Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/) - [Tweeter](https://github.com/ngimdock)
 
 ## Contact
-Mail: ngimdock.zemfack@facsciences-uy1.cm
-Tel & whatsapp: +237 6 55 95 14 94
+-Mail: ngimdock.zemfack@facsciences-uy1.cm
+-Tel & whatsapp: +237 6 55 95 14 94
