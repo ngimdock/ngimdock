@@ -12,7 +12,7 @@ En tant que développeur frontend, je suis spécialisé sur le framework react. 
 `React.js` `Redux` `Tailwind` `Firebase`
 
 #### Stact secondaire(Backend)
-`Node.js` `Express` `MySql` `Mongodb`
+`Node.js` `Express` `MySql` `neo4j`
 
 ## Mes réseaux sociaux
 [Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/) - [Tweeter](https://github.com/ngimdock)
