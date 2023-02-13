@@ -1,22 +1,23 @@
 #### Ngimdock Zemfack 🐻
-# Développeur web frontend freelance 
+# Développeur Fullstack Nest/React
 
 ## Présentation
-Moi c'est zemfack mais vous pouvez simplement m'appeler dan, j'aide les PME et les particuliers à développer leurs sites et applications web
- **sur-mésure**
- 
-## Compétences maîtrisés
-En tant que développeur frontend, je suis spécialisé sur le framework react. Présentement je suis entrain de me monter en compétence côté backend
+Moi c'est `zemfack` mais je suis généralement connu sous le nom de `dan`. 
 
-#### Stack principale(Frontend)
-`React.js` `Redux` `Tailwind` `Firebase`
+Je suis un développeur fullstack qui a de l'expérience avec les frameworks `NestJS` et `ReactJS` depuis deux ans.
 
-#### Stact secondaire(Backend)
-`Node.js` `Express` `MySql` `neo4j`
+J'ai eu la chance de travailler sur plusieurs projets en freelance et de participer à des projets utilisés au Cameroun.
 
-## Mes réseaux sociaux
+## Stack technique
+
+#### Stact Backend
+`Nestjs` `Postgres` `Prisma` `Mongodb`
+
+#### Stack Frontend
+`Reactjs` `Nextjs` `Tailwind` `Firebase`
+
+#### Stack Complementaire
+`Redis` `Docker` `Figma`
+
+## Me contacter
 [Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/) - [Tweeter](https://github.com/ngimdock)
-
-## Contact
-- `Mail`: ngimdock.zemfack@facsciences-uy1.cm
-- `Tel` & `whatsapp`: +237 6 55 95 14 94
