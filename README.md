@@ -17,7 +17,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 `Reactjs` `Nextjs` `Tailwind` `Firebase`
 
 #### Stack Complementaire
-`Redis` `Docker` `Figma`
+`Redis` `Docker` `socket.io` `Figma`
 
 ## Me contacter
 [Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/) - [Tweeter](https://github.com/ngimdock)
