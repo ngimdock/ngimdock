@@ -10,7 +10,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 
 ## Stack technique
 
-#### Stact Backend
+#### Stack Backend
 `Nestjs` `Postgres` `Prisma` `Mongodb`
 
 #### Stack Frontend
