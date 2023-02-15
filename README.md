@@ -8,9 +8,8 @@ Je suis un développeur fullstack qui a de l'expérience avec les frameworks `Ne
 
 J'ai eu la chance de travailler sur plusieurs projets en freelance et de participer à des projets utilisés au Cameroun.
 
-## Stack technique
 
-#### Stack Backend
+## 🗄️ Stack technique Backend
 ![nest](./img/technologies/nest.png)  ![postgresql](./img/technologies/postgresql.png) ![prisma](./img/technologies/prisma.png) ![mongodb](./img/technologies/mongodb.png)
 
 <p>
@@ -21,7 +20,6 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 <br>
-
 
 #### Stack Frontend
 `Reactjs` `Nextjs` `Tailwind` `Firebase`
