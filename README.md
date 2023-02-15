@@ -20,4 +20,4 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 `Redis` `Docker` `socket.io` `Figma`
 
 ## Me contacter
-[Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/) - [Tweeter](https://github.com/ngimdock)
+[Linkedin](https://www.linkedin.com/in/ngimdock-zemfack/) - [Twiter](https://github.com/ngimdock)
