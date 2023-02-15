@@ -11,8 +11,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 ## Stack technique
 
 #### Stack Backend
-![nest](./img/technologies/nest.png)  ![postgresql](./img/technologies/postgresql.png) ![prisma](./img/technologies/prisma.png) ![mongoose](./img/technologies/mongoose.png) 
-
+![nest](./img/technologies/nest.png)  ![postgresql](./img/technologies/postgresql.png) ![prisma](./img/technologies/prisma.png) ![mongodb](./img/technologies/mongodb.png)
 #### Stack Frontend
 `Reactjs` `Nextjs` `Tailwind` `Firebase`
 
