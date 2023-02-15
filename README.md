@@ -16,6 +16,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 <p>
 <a href="https://nestjs.com/" target="_blank"><img alt="Nestjs" src="https://custom-icon-badges.herokuapp.com/badge/Nestjs-525252.svg?logo=nestjs&logoColor=red"></a>
  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+ <a href="#"><img alt="Prisma" src ="https://img.shields.io/badge/Prisma-07405e.svg?logo=prisma&logoColor=white"></a>
 </p>
 <br>
 
