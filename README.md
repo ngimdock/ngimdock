@@ -33,7 +33,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
    <a href="#"><img alt="Firebase" src="https://custom-icon-badges.herokuapp.com/badge/Firebase-FECD2E.svg?logo=firebase&logoColor=white"></a>
    <a href="#"><img alt="Redis" src="https://custom-icon-badges.herokuapp.com/badge/Redis-A61F11.svg?logo=redis&logoColor=white"></a>
    <a href="#"><img alt="Docker" src="https://custom-icon-badges.herokuapp.com/badge/Docker-028BB9.svg?logo=docker&logoColor=white"></a>
-   <a href="#"><img alt="SocketIo" src="https://custom-icon-badges.herokuapp.com/badge/Socket-000000.svg?logo=socket-io&logoColor=white"></a>
+   <a href="#"><img alt="SocketIo" src="https://custom-icon-badges.herokuapp.com/badge/Socket-000000.svg?logo=socketio&logoColor=white"></a>
 </p>
 
 `Redis` `Docker` `socket.io` `Figma`
