@@ -12,7 +12,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 ### 🗄️ Stack technique Backend
 <p>
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-   <a href="#" target="_blank"><img alt="Nestjs" src="https://custom-icon-badges.herokuapp.com/badge/Nestjs-525252.svg?logo=nestjs&logoColor=red"></a>
+   <a href="#"><img alt="Nestjs" src="https://custom-icon-badges.herokuapp.com/badge/Nestjs-525252.svg?logo=nestjs&logoColor=red"></a>
    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
    <a href="#"><img alt="Prisma" src ="https://img.shields.io/badge/Prisma-07405e.svg?logo=prisma&logoColor=white"></a>
    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -23,7 +23,8 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 
 <p>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
- <a href="#"><img alt="NextJs" src="https://img.shields.io/badge/React-20232a.svg?logo=nextjs&logoColor=black"></a>
+  <a href="#"><img alt="NextJs" src="https://img.shields.io/badge/React-20232a.svg?logo=nextjs&logoColor=black"></a>
+  <a href="#"><img alt="Nestjs" src="https://custom-icon-badges.herokuapp.com/badge/Nestjs-525252.svg?logo=a-nextjs13&logoColor=red"></a>
 </p>
 `Reactjs` `Nextjs` `Tailwind` `Firebase`
 
