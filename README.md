@@ -23,7 +23,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 
 <p>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
- <a href="#"><img alt="Next" src="https://img.shields.io/badge/Nextjs-20232a.svg?logo=nextjs&logoColor=%2361DAFB"></a>
+ <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232a.svg?logo=next&logoColor=%2361DAFB"></a>
 </p>
 `Reactjs` `Nextjs` `Tailwind` `Firebase`
 
