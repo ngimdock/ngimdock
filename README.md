@@ -9,7 +9,7 @@ Je suis un développeur fullstack qui a de l'expérience avec les frameworks `Ne
 J'ai eu la chance de travailler sur plusieurs projets en freelance et de participer à des projets utilisés au Cameroun.
 
 
-### 🗄️ Stack technique backend
+### Stack technique backend
 <p>
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
    <a href="#"><img alt="Nestjs" src="https://custom-icon-badges.herokuapp.com/badge/Nestjs-EA2845.svg?logo=nestjs&logoColor=white"></a>
@@ -18,7 +18,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
-### 💻 Stack technique frontend
+### Stack technique frontend
 
 <p>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -28,7 +28,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
   <a href="#"><img alt="Figma" src="https://custom-icon-badges.herokuapp.com/badge/Figma-5C2D91.svg?logo=figma&logoColor=white"></a>
 </p>
 
-### 🧰 Stack complementaire
+### Stack complementaire
 <p>
    <a href="#"><img alt="Firebase" src="https://custom-icon-badges.herokuapp.com/badge/Firebase-FECD2E.svg?logo=firebase&logoColor=white"></a>
    <a href="#"><img alt="Redis" src="https://custom-icon-badges.herokuapp.com/badge/Redis-A61F11.svg?logo=redis&logoColor=white"></a>
