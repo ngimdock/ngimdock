@@ -44,15 +44,15 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
    </a>
    
    <a href="https://www.linkedin.com/in/ngimdock-zemfack/" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="23px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
    </a>
    
-   <a href="https://github.com/ngimdock" target="_blank">
+   <a href="https://twitter.com/NZemfack" target="_blank">
      <img align="left" alt="Md. Shakil Hossain | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
    </a>
    
    <a href="https://www.youtube.com/channel/UC3zvEZ1mz0fNPhB53C50gDQ" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Youtube" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/youtube.svg" />
+    <img align="left" alt="Md. Shakil Hossain | Youtube" width="27px" src="https://github.com/shakiliitju/shakiliitju/blob/main/youtube.svg" />
    </a>
  
  <br>
