@@ -40,7 +40,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 
 
 
-<br>
+</br>
  ## Contact Me.
  <section>
    <a href="#" target="_blank">
