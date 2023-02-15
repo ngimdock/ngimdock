@@ -13,7 +13,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 #### Stack Backend
 ![nest](./img/technologies/nest.png)  ![postgresql](./img/technologies/postgresql.png) ![prisma](./img/technologies/prisma.png) ![mongodb](./img/technologies/mongodb.png)
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+<a href="https://nestjs.com/"><img alt="nestjs" src="./img/technologies/nest.png"></a>
 
 #### Stack Frontend
 `Reactjs` `Nextjs` `Tailwind` `Firebase`
