@@ -40,7 +40,7 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
  ## Contact Me.
  <section>
    <a href="#" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+    <img align="left" alt="Md. Shakil Hossain | Website" width="24px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
    </a>
    
    <a href="https://www.linkedin.com/in/ngimdock-zemfack/" target="_blank">
