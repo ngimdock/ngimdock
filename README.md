@@ -22,9 +22,9 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 
 <p>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="Nestjs" src="https://custom-icon-badges.herokuapp.com/badge/Nestjs-525252.svg?logo=a-nextjs13&logoColor=white"></a>
-  <a href="#"><img alt="Tailwind css" src="https://custom-icon-badges.herokuapp.com/badge/TailwindCss-e0982c.svg?logo=tailwindcss&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://custom-icon-badges.herokuapp.com/badge/Figma-525252.svg?logo=figma&logoColor=white"></a>
+  <a href="#"><img alt="Nextjs" src="https://custom-icon-badges.herokuapp.com/badge/Nestjs-525252.svg?logo=a-nextjs13&logoColor=white"></a>
+  <a href="#"><img alt="Tailwind css" src="https://custom-icon-badges.herokuapp.com/badge/TailwindCss-0A9EDC.svg?logo=tailwindcss&logoColor=white"></a>
+  <a href="#"><img alt="Figma" src="https://custom-icon-badges.herokuapp.com/badge/Figma-5C2D91.svg?logo=figma&logoColor=white"></a>
 </p>
 
 `Reactjs` `Nextjs` `Tailwind` `Firebase`
