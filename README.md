@@ -22,8 +22,8 @@ J'ai eu la chance de travailler sur plusieurs projets en freelance et de partici
 
 <p>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-02569B.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="Nextjs" src="https://custom-icon-badges.herokuapp.com/badge/Nextjs-111111.svg?logo=a-nextjs13&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-02569B.svg?logo=react&logoColor=white"></a>
+  <a href="#"><img alt="Nextjs" src="https://custom-icon-badges.herokuapp.com/badge/Nextjs-000000.svg?logo=nextjs-13&logoColor=white"></a>
   <a href="#"><img alt="Tailwind css" src="https://custom-icon-badges.herokuapp.com/badge/TailwindCss-0A9EDC.svg?logo=tailwindcss&logoColor=white"></a>
   <a href="#"><img alt="Figma" src="https://custom-icon-badges.herokuapp.com/badge/Figma-5C2D91.svg?logo=figma&logoColor=white"></a>
 </p>
