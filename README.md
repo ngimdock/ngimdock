@@ -2,7 +2,7 @@
 # Développeur Fullstack Nest/React
 
 ## Présentation
-Moi c'est `zemfack` mais je suis généralement connu sous le nom de `dan`. 
+Moi c'est `zemfack`, généralement connu sous le nom de `dan`. 
 
 Je suis un développeur fullstack qui a de l'expérience avec les frameworks `NestJS` et `ReactJS` depuis deux ans.
 
