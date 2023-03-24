@@ -1,5 +1,5 @@
 #### Ngimdock Zemfack 🐻
-# Développeur fullstack Nest/React, Nestjs lover  🫶🏿
+# Développeur fullstack Nest/React.
 
 ### Présentation
 Moi c'est `zemfack`, généralement connu sous le nom de `dan`. 
