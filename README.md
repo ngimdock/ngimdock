@@ -4,7 +4,7 @@
 Hey c'est `dan`, ingénieur logiciel fullstack. Mon domaine de compétence va de la conception de produit logiciel à ça mise en production en passant par les bonnes pratiques de développement: Clean archi, DDD, CQRS, SOLID.
 
 ### Bonnes pratiques
-`Clean architecture` `DDD` `CQRS` `SOLID`
+`Clean archi` `DDD` `CQRS` `SOLID`
 
 ### Stack backend
 <p>
