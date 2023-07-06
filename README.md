@@ -3,8 +3,10 @@
 
 Hey c'est `dan`, ingénieur logiciel fullstack. Mon domaine de compétence va de la conception de produit logiciel à ça mise en production en passant par les bonnes pratiques de développement: Clean archi, DDD, CQRS, SOLID.
 
+### Bonnes pratiques
+`Clean architecture` `DDD` `CQRS` `SOLID`
 
-### Stack technique backend
+### Stack backend
 <p>
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
    <a href="#"><img alt="Nestjs" src="https://custom-icon-badges.herokuapp.com/badge/Nestjs-EA2845.svg?logo=nestjs&logoColor=white"></a>
@@ -13,7 +15,7 @@ Hey c'est `dan`, ingénieur logiciel fullstack. Mon domaine de compétence va de
    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
-### Stack technique frontend
+### Stack frontend
 
 <p>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-072F61.svg?logo=typescript&logoColor=white"></a>
@@ -23,7 +25,7 @@ Hey c'est `dan`, ingénieur logiciel fullstack. Mon domaine de compétence va de
   <a href="#"><img alt="Figma" src="https://custom-icon-badges.herokuapp.com/badge/Figma-9E5FF4.svg?logo=figma&logoColor=white"></a>
 </p>
 
-### Stack complementaire
+### Stack complémentaire
 <p>
    <a href="#"><img alt="Firebase" src="https://custom-icon-badges.herokuapp.com/badge/Firebase-FECD2E.svg?logo=firebase&logoColor=white"></a>
    <a href="#"><img alt="Redis" src="https://custom-icon-badges.herokuapp.com/badge/Redis-A61F11.svg?logo=redis&logoColor=white"></a>
