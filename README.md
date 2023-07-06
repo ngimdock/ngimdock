@@ -1,12 +1,7 @@
 #### Ngimdock Zemfack 🐻
 # Software engineer Typescript / Nest / React.
 
-### Présentation
-Moi c'est `zemfack`, généralement connu sous le nom de `dan`. 
-
-Je suis un développeur fullstack qui a de l'expérience avec les frameworks `NestJS` et `ReactJS` depuis deux ans.
-
-J'ai eu la chance de travailler sur plusieurs projets en freelance et de participer à des projets utilisés au Cameroun.
+Hey c'est `dan`, ingénieur logiciel fullstack. Mon domaine de compétence va de la conception de produit logiciel à ça mise en production en passant par les bonnes pratiques de développement: Clean archi, DDD, CQRS, SOLID.
 
 
 ### Stack technique backend
