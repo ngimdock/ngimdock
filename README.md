@@ -6,7 +6,7 @@ Hey c'est `dan`, ingénieur logiciel fullstack. Mon domaine de compétence va de
 ### Bonnes pratiques
 `Clean archi` `DDD` `CQRS` `SOLID`
 
-### Stack backend
+### Stack backend (Spécialité)
 <p>
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
    <a href="#"><img alt="Nestjs" src="https://custom-icon-badges.herokuapp.com/badge/Nestjs-EA2845.svg?logo=nestjs&logoColor=white"></a>
