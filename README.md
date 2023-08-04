@@ -1,5 +1,5 @@
 #### Ngimdock Zemfack 🐻
-# Software engineer Typescript / Nest / React.
+# Software engineer.
 
 Hey c'est `dan`, ingénieur logiciel. Mon domaine de compétence va de la conception logicielle à ça mise en production en passant par les bonnes pratiques de développement: Clean archi, DDD, CQRS, SOLID.
 
