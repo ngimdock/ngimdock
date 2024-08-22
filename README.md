@@ -1,7 +1,7 @@
 #### Ngimdock Zemfack 🐻
 # Software engineer.
 
-### Frontend Tech stack
+### Frontend Tech Stack
 
 <p>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-072F61.svg?logo=typescript&logoColor=white"></a>
